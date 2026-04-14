@@ -1,0 +1,33 @@
+# SISTEMA
+base
+linux
+linux-firmware
+sudo
+networkmanager
+git
+
+# IL MOTORE ORIGINALE
+archinstall
+
+# Python + GUI
+python
+python-pyside6
+python-pip
+
+# SUPPORTO GRAFICO
+xorg-server
+xorg-xinit
+xf86-video-vesa
+mesa
+libpulse
+
+# STRUMENTI PER GESTIRE DISCHI E WINDOWS
+parted
+gptfdisk
+dosfstools
+ntfs-3g
+os-prober
+mtools
+
+# ESTETICA
+neofetch

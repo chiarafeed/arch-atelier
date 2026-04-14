@@ -12,11 +12,11 @@ Was wir anders machen:
 
     🎭 Die Umkleidekabine (Live-Vorschau): Willst du Hyprland, GNOME oder KDE ausprobieren? Ich zeige sie dir, bevor du sie installierst. Schau es dir an, und wenn es dir nicht gefällt, drückst du eine Taste und gehst zurück.
 
-    🛠️ Der Werkzeugkasten: Wenn du dich für eine minimale Umgebung entscheidest (wie Hyprland), lassen wir dich nicht allein. Du entscheidest, ob du Kitty, Waybar oder Dolphin hinzufügen möchtest.
+    🛠️ Der Werkzeugkasten: Wenn du dich für einen minimalen Desktop entscheidest (wie Hyprland), lassen wir dich nicht allein. Du entscheidest, ob du Kitty, Waybar oder Dolphin hinzufügen möchtest.
 
-    🌈 Eye Candy inklusive: Pokémon im Terminal? Arch-ASCII-Art beim Start? Nur ein Klick entfernt.
+    🌈 Eye Candy inklusive: Pokémon im Terminal? Arch-ASCII-Art beim Start?
 
-🚀 So bekommst du die ISO
+🚀 So kannst du die ISO dawnloaden
 
 Du musst nichts selbst kompilieren. Gehe einfach rechts zum Abschnitt "Releases", lade die neueste .iso-Datei herunter und flashe sie auf einen USB-Stick.
 🛠️ Systemanforderungen (Live-System)
