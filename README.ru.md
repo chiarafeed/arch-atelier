@@ -1,34 +1,55 @@
 🦊 Arch-Atelier (WIP)
 
-    L'installer di Arch Linux che non ti odia, non cancella Windows e ti regala i Pokémon.
+    Установщик Arch Linux, который не пытается тебя убить, не удаляет Windows и дарит тебе Покемонов.
 
-Stanc* dei soliti installer freddi che ti lasciano in un deserto nero (sì, Hyprland, parlo con te) o che ti fanno sparire il bootloader di Windows come se nulla fosse? Benvenuta a casa.
-🌟 Perché questo progetto?
+Устал(а) от повторяющихся и сухих программ для установки, которые оставляют тебя посреди черной пустоши (да, Hyprland, я говорю с тобой) или от того, что у тебя волшебным образом исчезает bootloader от Windows как ни в чем не бывало? Добро Пожаловать!
+🌟 Почему именно этот проект?
 
-Arch Linux è potente, ma la sua community può essere un po'... faticosa. Questo installer nasce per chi vuole la potenza di Arch senza dover subire il rito di iniziazione del dolore.
-Cosa fa di diverso:
+Arch Linux мощный, но его сообщество может быть немного... странным или утомительным? Эта Программа для тех, кто хочет возможности и мощность Arch без боли от его установки.
+Чем он отличается от остальных:
 
-    🛡️ Scudo Anti-Disastro: Riconosce Windows, ne protegge il bootloader e fa il backup della partizione EFI. Se qualcosa va storto, non rimani a piedi.
+    🛡️ Щит Anti-Катастрофа: Распознаёт Windows, защищает bootloader и делает резервное копирование раздела EFI. Если что-то пойдёт не по плану, вы не останетесь с голой жопой.
 
-    🎭 Il Camerino (Live Preview): Vuoi provare Hyprland? GNOME? KDE? Te li faccio vedere prima di installarli. Entri, guardi com'é, e se non ti piace premi un tasto e torni indietro.
+    🎭 Гардеробная (Live Preview): Хочешь попробовать Hyprland? GNOME? KDE? Я покажу их тебе, перед установкой. Заходишь и смотришь как оно, и если тебе не нравится достаточно нажать на кнопку и ты вернёшься назад.
 
-    🛠️ La Scatola degli Attrezzi: Se scegli un ambiente minimale (come Hyprland), non ti abbandono. Ti chiedo se vuoi Kitty, Waybar o Dolphin, ma decidi TU cosa spuntare.
+    🛠️ Ящик с Инструментами: Если выберешь минимализм (как в Hyprland), я тебя не брошу. Ты сам можешь выбрать то, что хочешь именно ты, например: Kitty, Waybar, Dolphin и так далее.
 
-    🌈 Eye Candy di Serie: Vuoi i Pokémon nel terminale? L'ASCII art di Arch all'avvio? Basta un click.
+    🌈 Крутые дополнительные плюшки: Хочешь Покемонов в терминале? ASCII-арт Arch при запуске? Достаточно одного нажатия.
 
-🚀 Come scaricare l'ISO
+🚀 Как скачать ISO:
 
-Non devi compilare nulla. Vai nella sezione Releases qui a destra, scarica l'ultima .iso e mettila su una chiavetta.
-🛠️ Tabella di Marcia (Roadmap)
+Тебе не надо ничего заполнять. Просто зайди в секцию "Releases" (которая находится справа), скачай последнюю версию ".iso" и запиши её на флешку.
+🛠️ Минимальные требования (Система "Live")
 
-    [ ] Fase 1: Script Python per il rilevamento sicuro dei dischi (Protezione Windows).
+Чтобы попробовать различные виды "Рабочего Стола" в Atelier без их установки потребуется:
 
-    [ ] Fase 2: Sistema di "Anteprima Live" in RAM.
+    Оперативная память (RAM): Минимум 4GB (Рекомендуется 8GB, для более плавной работы).
 
-    [ ] Fase 3: Menu "Scatola degli Attrezzi" per configurare i Window Manager.
+    Подключение: Необходимо подключение к интернету для загрузки файлов во время установки.
 
-    [ ] Fase 4: Modulo Estetico (Pokémon, Font, Trasparenze).
+    USB: Флешка минимум на 4GB.
 
-🤝 Unisciti alla Community (Quella Simpatica)
+🧠 Почему именно эти цифры?
 
-Se sei stanca del "By the way I use Arch" e vuoi solo un sistema che funzioni e sia bello da vedere, sei la benvenuta. Apri una Issue o proponi una modifica!
+    Оперативная память - это твой "Диск": Когда работаешь в оперативной памяти, всё, что ты устанавливаешь или запускается не записывается на жёсткий диск, а "парит" в энергозависимой памяти, то бишь после выключения устройства всё удаляется. 4GB это минимум, чтобы у тебя ничего не крашнуло при любом вздохе.
+🛠️ Список действий (Roadmap):
+
+    [ ] Фаза 1: Script Python для безопасного обнаружения дисков (Защита Windows).
+
+    [ ] Фаза 2: Система RAM "Предварительный просмотр в реальном времени".
+
+    [ ] Фаза 3: Меню "Ящик с Инструментами" для конфигурации Window Manager.
+
+    [ ] Фаза 4: Эстетический модуль (Покомены, Шрифт, Прозрачность).
+
+🤝 Присоединяйся к нашей маленькой части доброго и отзывчивого сообщества!  
+
+Если ты устал от "Кстати я использую Arch" и ты всего лишь хочешь чтобы у тебя всё нормально работало и было приятно глазу, WELCOME. 
+Создай заявку или предложи правку!
+🤝 Особая благодарность:
+
+    Перевод на немецкий: Стефания Андрих.
+
+    Перевод на русский: Анастасия Романенко.
+
+    Разработка: Кьяра Скола.
