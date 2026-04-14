@@ -19,6 +19,19 @@ Cosa fa di diverso:
 🚀 Come scaricare l'ISO
 
 Non devi compilare nulla. Vai nella sezione Releases qui a destra, scarica l'ultima .iso e mettila su una chiavetta.
+🛠️ Requisiti Minimi (Sistema "Live")
+
+Per provare i Desktop Environment nell'Atelier senza installarli:
+
+    RAM: Almeno 4GB (consigliati 8GB per un'esperienza fluida).
+
+    Connessione: Necessaria per scaricare i pacchetti durante la prova.
+
+    USB: Una chiavetta da almeno 4GB.
+
+🧠 Perché proprio queste cifre?
+
+    La RAM è il tuo "Disco": Quando provi un sistema in RAM, tutto quello che scarichi o avvii non va sull'hard disk, ma "galleggia" nella memoria volatile. 4GB sono il minimo per non far crashare tutto se apri una finestra.
 🛠️ Tabella di Marcia (Roadmap)
 
     [ ] Fase 1: Script Python per il rilevamento sicuro dei dischi (Protezione Windows).
@@ -32,3 +45,10 @@ Non devi compilare nulla. Vai nella sezione Releases qui a destra, scarica l'ult
 🤝 Unisciti alla Community (Quella Simpatica)
 
 Se sei stanca del "By the way I use Arch" e vuoi solo un sistema che funzioni e sia bello da vedere, sei la benvenuta. Apri una Issue o proponi una modifica!
+🤝 Credits / Ringraziamenti
+
+    Deuch Translation: Stefania Andrich.
+
+    Russian Translation: Anastasiia Romanenko.
+
+    Development: Chiara & her brother.

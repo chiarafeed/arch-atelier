@@ -20,6 +20,23 @@ What's different:
 🚀 How to get the ISO
 
 You don't need to compile anything. Go to the Releases section on the right, download the latest .iso, and flash it to a USB drive.
+Ottimo! Se hai già fatto il push, ora il tuo repository è ufficialmente aggiornato. Avere i requisiti tecnici anche in inglese renderà il progetto ancora più credibile a livello internazionale.
+
+🛠️ Minimum System Requirements (Live System)
+
+To test the Desktop Environments in the Atelier without installing them:
+
+    RAM: At least 4GB (8GB recommended for a smooth experience).
+
+    Connection: Required to download packages during the live preview.
+
+    USB: A flash drive with at least 4GB of space.
+
+🧠 Why these specific numbers?
+
+    RAM is your "Disk": When you test a system in RAM-only mode, everything you download or run doesn't go to the hard drive; it "floats" in volatile memory. 4GB is the bare minimum to prevent the system from crashing when you open a window.
+
+
 🛠️ Roadmap
 
     [ ] Phase 1: Python script for secure disk detection (Windows Protection).
