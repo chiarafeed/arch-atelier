@@ -57,3 +57,12 @@ Qualche piccolo consiglio extra:
     Pull Request: In inglese, invece di "proponi una modifica", su GitHub si dice spesso "submit a Pull Request" (o PR), che è il termine tecnico quando qualcuno ti invia del codice.
 
     Dressing Room: Ho usato "Dressing Room" (Camerino) perché si sposa bene con il nome "Atelier".
+
+Se sei stanca del "By the way I use Arch" e vuoi solo un sistema che funzioni e sia bello da vedere, sei la benvenuta. Apri una Issue o proponi una modifica!
+🤝 Credits 
+
+    Deuch Translation: Stefania Andrich.
+
+    Russian Translation: Anastasiia Romanenko.
+
+    Development: Chiara & her brother.
